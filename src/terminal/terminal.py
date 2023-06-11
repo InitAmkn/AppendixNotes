@@ -1,6 +1,6 @@
 import src.terminal.request as request
 import src.terminal.menu_data as menu
-import src.terminal.comand_controller as comand
+import src.controller.comand_controller as comand
 import src.controller.notes_collection as notes_collection
 import src.controller.write_CSV as write_CSV
 import src.controller.read_CSV as read_CSV
